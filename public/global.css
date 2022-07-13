@@ -1,3 +1,9 @@
+body {
+    max-width: 480px;
+    margin: auto;
+    
+}
+
 button {
     border: none;
     color: #fff;
